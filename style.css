@@ -124,6 +124,7 @@ section{
     }
     .centered {
         
+        position: absolute;
         top: 50%;
         left: 38%;
         padding-top: 1838px;
